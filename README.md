@@ -1,4 +1,5 @@
 # Haskell_Study
 
 haskell study
-2021 07 11
+
+start day : 2021 07 11
